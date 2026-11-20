@@ -1,6 +1,6 @@
 # Aurelia Boutique Hotel — Room Booking & Management System (PHP & MySQL)
 
-A full-stack, responsive web application for managing hotel operations, room inventory, guest directories, hospitality add-on services, and room reservations. Built with **PHP (PDO)**, **MySQL**, **Vanilla JavaScript (Fetch API)**, and a custom **CSS3** design system featuring Light/Dark mode and real-time USD/INR currency conversion[cite: 3, 5, 6, 7, 8].
+A full-stack, responsive web application for managing hotel operations, room inventory, guest directories, hospitality add-on services, and room reservations. Built with **PHP (PDO)**, **MySQL**, **Vanilla JavaScript (Fetch API)**, and a custom **CSS3** design system featuring Light/Dark mode .
 
 ---
 
